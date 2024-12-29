@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Project\\QS\u9818\u57DF\u6A21\u578BDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C9236C-4FC3-2797-EE8F-5323FC38545D}|Assembly-CSharp.csproj|d:\\unity_project\\qs\u9818\u57DF\u6A21\u578Bdemo\\assets\\monkeyballrotationdemo\\model\\modeladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C9236C-4FC3-2797-EE8F-5323FC38545D}|Assembly-CSharp.csproj|solutionrelative:assets\\monkeyballrotationdemo\\model\\modeladder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelAdder.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\QS\u9818\u57DF\u6A21\u578BDemo\\Assets\\MonkeyBallRotationDemo\\Model\\ModelAdder.cs",
+              "RelativeDocumentMoniker": "Assets\\MonkeyBallRotationDemo\\Model\\ModelAdder.cs",
+              "ToolTip": "D:\\Unity_Project\\QS\u9818\u57DF\u6A21\u578BDemo\\Assets\\MonkeyBallRotationDemo\\Model\\ModelAdder.cs",
+              "RelativeToolTip": "Assets\\MonkeyBallRotationDemo\\Model\\ModelAdder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:28:57.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
